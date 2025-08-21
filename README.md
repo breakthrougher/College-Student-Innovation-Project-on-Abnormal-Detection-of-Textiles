@@ -1,1 +1,1 @@
-# College-Student-Innovation-Project-on-Abnormal-Detection-of-Textiles
+## 本项目是基于知识蒸馏的纺织物异常检测，属于大学生创新项目
